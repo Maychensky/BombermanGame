@@ -17,6 +17,7 @@ namespace Bomberman.Enemy
     настырность (низко/средне/высоко) 
     (bool) проход свозь стены (да/нет)
     */
+    /* ПРОВЕКРА */
 
     internal abstract class Enemy
     {
